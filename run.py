@@ -317,8 +317,8 @@ if __name__ == '__main__':
 		text = 'F1 : Next , F2 : Sound, ,F3 : speak ,Enter : OK',
 		bg= background_txt,
 		font = ('Arial',10),
-		width = 30,height=1 ,
-		anchor='w').place(x = 550, y =  408)
+		width = 50,height=1 ,
+		anchor='w').place(x = 520, y =  408)
 	# cv2 = tk.Canvas(win, bg= background_txt)
 	# cv2.create_rectangle(10,100,100,10,outline = background_txt)
 	# cv2.pack()
